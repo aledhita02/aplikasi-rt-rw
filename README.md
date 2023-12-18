@@ -1,7 +1,7 @@
 
 ## Aplikasi RT RW
 
-Dilarang untuk menjualbelikan produk di atas tanpa izin dari pemilik
+Dilarang untuk **menjualbelikan produk** di atas tanpa izin dari pemilik
 
 ## Authors
 License by Alessandro Pramudhita Putra Setyawan (Github: [@aledhita02](https://github.com/aledhita02) )
